@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Paulo Carvalho]  
+# 👋 Hi there, I'm Paulo Carvalho      
 
 🚀 **Back-End Developer** specialized in **Python**, passionate about building scalable, efficient, and maintainable software solutions.  
 
