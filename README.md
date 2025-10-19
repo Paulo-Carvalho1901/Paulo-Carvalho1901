@@ -35,6 +35,12 @@ I have hands-on experience developing **RESTful APIs** and **microservices** usi
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 
+## Courses & Learning
+- **FastAPI: From Basics to Advanced** – Mastered building scalable APIs and microservices with FastAPI.
+- **SQLAlchemy: How to Use the Framework** – Practical skills in ORM and database management.
+- **OpenTelemetry & Observability** – Learned monitoring, tracing, and observability best practices.
+- **Python: Basic to Advanced** – Solid foundation in Python for scalable back-end development.
+
 
 ⭐️ *"Code with purpose. Learn continuously. Build what matters."*
 
