@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi there, I'm [Paulo Carvalho]  
 
-<!--
-**Paulo-Carvalho1901/Paulo-Carvalho1901** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Back-End Developer** specialized in **Python**, passionate about building scalable, efficient, and maintainable software solutions.  
 
-Here are some ideas to get you started:
+I have hands-on experience developing **RESTful APIs** and **microservices** using **FastAPI**, **SQLAlchemy**, and **Docker**, focusing on **performance**, **observability**, and **clean code**. I also work with **relational databases** such as **PostgreSQL** and **MySQL**, and apply **Agile methodologies (Scrum)** to ensure high-quality deliveries.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Currently, I'm deepening my understanding of **computer networks** and preparing for the **PCEP (Python Certified Entry-Level Programmer)** certification — continuously improving my technical foundation and problem-solving skills.  
+
+💡 I’m motivated by challenges that combine technology, efficiency, and real-world impact — turning complex ideas into elegant and reliable code.  
+
+---
+
+### 🛠️ Tech Stack
+- **Languages:** Python  
+- **Frameworks:** FastAPI, SQLAlchemy  
+- **Databases:** PostgreSQL, MySQL  
+- **Tools & Platforms:** Docker, Git, Linux  
+- **Concepts:** REST APIs, Microservices, Observability, Agile (Scrum), Clean Code  
+
+---
+
+### 🌱 Currently Learning
+- Computer Networks  
+- Python PCEP Certification  
+
+---
+
+### 📫 Connect with me
+- [LinkedIn](https://www.linkedin.com/in/paulo-carvalho-4193941a0/?locale=en_US)  
+- [Email](paulo.car1901@hotmail.com)  
+
+---
+
+⭐️ *"Code with purpose. Learn continuously. Build what matters."*
+
