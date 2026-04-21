@@ -1,12 +1,12 @@
 # 👋 Hi there, I'm Paulo Carvalho      
 
-🚀 **Back-End Developer** specialized in **Python**, passionate about building scalable, efficient, and maintainable software solutions.  
+🚀 Back-End Developer specialized in Python, focused on building scalable, efficient, and maintainable software solutions.
 
-I have hands-on experience developing **RESTful APIs** and **microservices** using **FastAPI**, **SQLAlchemy**, and **Docker**, focusing on **performance**, **observability**, and **clean code**. I also work with **relational databases** such as **PostgreSQL** and **MySQL**, and apply **Agile methodologies (Scrum)** to ensure high-quality deliveries.  
+I have solid experience developing RESTful APIs and microservices using FastAPI, SQLAlchemy, and Docker, with an emphasis on performance, observability, and clean architecture. I work with relational databases such as PostgreSQL and MySQL, always aiming for reliability and high-quality code.
 
-📚 Currently, I'm deepening my understanding of **computer networks** and preparing for the **PCEP (Python Certified Entry-Level Programmer)** certification — continuously improving my technical foundation and problem-solving skills.  
+📚 Currently, I’m strengthening my expertise in Linux systems, expanding my understanding of infrastructure, environments, and backend performance optimization.
 
-💡 I’m motivated by challenges that combine technology, efficiency, and real-world impact — turning complex ideas into elegant and reliable code.  
+💡 I’m driven by challenges that combine technology, efficiency, and real-world impact — transforming complex problems into clean, reliable, and scalable solutions.
 
 ---
 
