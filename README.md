@@ -1,46 +1,155 @@
-# 👋 Hi there, I'm Paulo Carvalho      
+# 👋 Paulo Carvalho
 
-🚀 Back-End Developer specialized in Python, focused on building scalable, efficient, and maintainable software solutions.
+**`Back-End Developer | Python`**
 
-I have solid experience developing RESTful APIs and microservices using FastAPI, SQLAlchemy, and Docker, with an emphasis on performance, observability, and clean architecture. I work with relational databases such as PostgreSQL and MySQL, always aiming for reliability and high-quality code.
+Sou desenvolvedor Back-End especializado em **Python**, focado na construção de **soluções escaláveis, eficientes e de fácil manutenção**.  
+Tenho experiência no desenvolvimento de **APIs RESTful e microservices** utilizando **FastAPI**, **SQLAlchemy** e **Docker**, sempre priorizando **performance, observabilidade e clean architecture**.
 
-📚 Currently, I’m strengthening my expertise in Linux systems, expanding my understanding of infrastructure, environments, and backend performance optimization.
+Atuo com bancos de dados relacionais como **PostgreSQL** e **MySQL**, buscando **confiabilidade, qualidade de código e boas práticas de engenharia**.
 
-💡 I’m driven by challenges that combine technology, efficiency, and real-world impact — transforming complex problems into clean, reliable, and scalable solutions.
+📚 Atualmente, estou aprofundando meus conhecimentos em **Linux, infraestrutura e otimização de performance em ambientes backend**.
 
----
-
-### 🛠️ Tech Stack
-- **Languages:** Python  
-- **Frameworks:** FastAPI, SQLAlchemy  
-- **Databases:** PostgreSQL, MySQL  
-- **Tools & Platforms:** Docker, Git, Linux  
-- **Concepts:** REST APIs, Microservices, Observability, Agile (Scrum), Clean Code  
+💡 Sou motivado por desafios que transformam problemas complexos em **soluções simples, limpas e escaláveis**.
 
 ---
 
-### 🌱 Currently Learning
-- Computer Networks  
+<p align="left">
+  <a href="https://github.com/Paulo-Carvalho1901?tab=followers">
+    <img 
+      alt="Seguidores" 
+      title="Seguidores no GitHub" 
+      src="https://custom-icon-badges.demolab.com/github/followers/Paulo-Carvalho1901?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+    />
+  </a>
+
+  <a href="https://github.com/Paulo-Carvalho1901?tab=repositories&sort=stargazers">
+    <img 
+      alt="Estrelas" 
+      title="Total de estrelas no GitHub" 
+      src="https://custom-icon-badges.demolab.com/github/stars/Paulo-Carvalho1901?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
+    />
+  </a>
+</p>
+
+---
+
+### 🛠️ Linguagens e Tecnologias
+
+<img 
+  align="left" 
+  alt="Python" 
+  title="Python"
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+<img 
+  align="left" 
+  alt="FastAPI" 
+  title="FastAPI"
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" 
+/>
+
+<img 
+  align="left" 
+  alt="SQLAlchemy" 
+  title="SQLAlchemy"
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg" 
+/>
+
+<img 
+  align="left" 
+  alt="PostgreSQL" 
+  title="PostgreSQL"
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
+/>
+
+<img 
+  align="left" 
+  alt="MySQL" 
+  title="MySQL"
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/>
+
+<img 
+  align="left" 
+  alt="Docker" 
+  title="Docker"
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
+/>
+
+<img 
+  align="left" 
+  alt="Linux" 
+  title="Linux"
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
+/>
+
+<img 
+  align="left" 
+  alt="Git" 
+  title="Git"
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+
+<br/>
+<br/>
+
+---
+
+### 🌱 Em Aprendizado
+
+- Redes de Computadores  
+- Linux e Infraestrutura  
 - Python PCEP Certification  
+- Observabilidade com OpenTelemetry  
 
 ---
 
-### 📫 Connect with me
-- [LinkedIn](https://www.linkedin.com/in/paulo-carvalho-4193941a0/?locale=en_US)  
-- [Email](paulo.car1901@hotmail.com)  
+### 📊 Estatísticas do GitHub
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200"
+    style="padding-right: 10px;"
+    src="https://github-readme-stats.vercel.app/api?username=Paulo-Carvalho1901&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+  />
+
+  <img 
+    align="left" 
+    alt="Top Languages" 
+    height="200"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-Carvalho1901&theme=tokyonight&layout=compact&custom_title=Tecnologias"
+  />
+</p>
+
+<br/>
+<br/>
 
 ---
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+### 📫 Contato
 
-## Courses & Learning
-- **FastAPI: From Basics to Advanced** – Mastered building scalable APIs and microservices with FastAPI.
-- **SQLAlchemy: How to Use the Framework** – Practical skills in ORM and database management.
-- **OpenTelemetry & Observability** – Learned monitoring, tracing, and observability best practices.
-- **Python: Basic to Advanced** – Solid foundation in Python for scalable back-end development.
+- 💼 LinkedIn: https://www.linkedin.com/in/paulo-carvalho-4193941a0/
+- 📧 Email: **paulo.car1901@hotmail.com**
 
+---
 
 ⭐️ *"Code with purpose. Learn continuously. Build what matters."*
-
