@@ -131,7 +131,6 @@ Atuo com bancos de dados relacionais como **PostgreSQL** e **MySQL**, buscando *
     style="padding-right: 10px;"
     src="https://github-readme-stats.vercel.app/api?username=Paulo-Carvalho1901&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
   />
-
   <img 
     align="left" 
     alt="Top Languages" 
@@ -139,17 +138,6 @@ Atuo com bancos de dados relacionais como **PostgreSQL** e **MySQL**, buscando *
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-Carvalho1901&theme=tokyonight&layout=compact&custom_title=Tecnologias"
   />
 </p>
-
 <br/>
 <br/>
 
----
-
-### 📫 Contato
-
-- 💼 LinkedIn: https://www.linkedin.com/in/paulo-carvalho-4193941a0/
-- 📧 Email: **paulo.car1901@hotmail.com**
-
----
-
-⭐️ *"Code with purpose. Learn continuously. Build what matters."*
